@@ -1,1 +1,4 @@
-
+[server]
+# Tamaño máximo de subida (MB) para adjuntos.
+# Si necesitás más, subilo (ej: 300), pero ojo con memoria y disco.
+maxUploadSize = 50
